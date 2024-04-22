@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E599C77C-A4D3-4367-BB06-08FEBCA9E140"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C620730-4C9A-4AC9-9347-35D8A7933CCB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecureDemo/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2C620730-4C9A-4AC9-9347-35D8A7933CCB - fb3b75acdddb7134"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecureDemo.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "SecureDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appsquadz/Desktop/SecureDemo/SecureDemo/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "2C620730-4C9A-4AC9-9347-35D8A7933CCB - 21c291c6fd898c07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Foundation.Notification) -&gt; () in SecureDemo.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "SecureDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/appsquadz/Desktop/SecureDemo/SecureDemo/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
